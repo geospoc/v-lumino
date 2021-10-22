@@ -22,9 +22,9 @@ const banner = `/*!
 export default {
   input: 'src/index.ts',
   output: {
-    file: 'dist/v-lumino.min.js',
+    file: pkg.cdn,
     format: 'umd',
-    name: 'v-lumino',
+    name: 'VLumino',
     exports: 'named',
     strict: true,
     sourcemap: true,

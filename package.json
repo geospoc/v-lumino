@@ -1,13 +1,13 @@
 {
-  "name": "v-lumino",
+  "name": "@geospoc/v-lumino",
   "version": "0.0.0",
-  "description": "Lumino & Vue",
+  "description": "Vue Wrapper for awesome Lumino library",
   "types": "types/v-lumino.d.ts",
   "main": "dist/v-lumino.cjs.js",
   "module": "dist/v-lumino.esm.js",
   "unpkg": "dist/v-lumino.js",
   "jsdelivr": "dist/v-lumino.js",
-  "cdn": "dist/v-lumino.js",
+  "cdn": "dist/v-lumino.min.js",
   "files": [
     "dist",
     "types"
@@ -49,6 +49,7 @@
     "@types/node": "^16.11.3",
     "@typescript-eslint/eslint-plugin": "^5.1.0",
     "@typescript-eslint/parser": "^5.1.0",
+    "@vinayakkulkarni/prettier-config-vue": "^1.0.0",
     "@vue/composition-api": "^1.2.4",
     "eslint": "^8.0.1",
     "eslint-config-prettier": "^8.3.0",
@@ -79,19 +80,31 @@
     "v-lumino"
   ],
   "author": {
-    "name": "Vinayak Kulkarni",
-    "email": "19776877+vinayakkulkarni@users.noreply.github.com",
-    "url": "https://vinayakkulkarni.dev"
+    "name": "GeoSpoc",
+    "email": "developers@geospoc.io",
+    "url": "https://geospoc.io"
   },
+  "contributors": [
+    {
+      "name": "Vinayak Kulkarni",
+      "email": "inbox.vinayak@gmail.com",
+      "url": "https://vinayakkulkarni.dev"
+    },
+    {
+      "name": "Prashis Meshram",
+      "email": "prashis.meshram@geospoc.com",
+      "url": "https://geospoc.com"
+    }
+  ],
   "license": "MIT",
   "repository": {
-    "url": "git+https://github.com/vinayakkulkarni/v-lumino",
+    "url": "git+https://github.com/geospoc/v-lumino",
     "type": "git"
   },
   "private": false,
   "sideEffects": false,
   "bugs": {
-    "url": "https://github.com/vinayakkulkarni/v-lumino/issues"
+    "url": "https://github.com/geospoc/v-lumino/issues"
   },
-  "homepage": "https://github.com/vinayakkulkarni/v-lumino#readme"
+  "homepage": "https://github.com/geospoc/v-lumino#readme"
 }

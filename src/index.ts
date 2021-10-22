@@ -1,2 +1,2 @@
+export { default as VLumino } from './components/Package.vue';
 export { default } from './install';
-export { default as VLumino } from './Package.vue';

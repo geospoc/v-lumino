@@ -1,5 +1,5 @@
 <template>
-  <div>My Brand New v-lumino widget</div>
+  <div>Hello World!</div>
 </template>
 
 <script lang="ts">

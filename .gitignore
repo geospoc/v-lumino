@@ -105,3 +105,6 @@ dist
 .DS_Store
 
 sw.*
+
+# Postcss bundled CSS
+styles/bundle.css

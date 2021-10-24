@@ -32,9 +32,11 @@
     ]
   },
   "include": [
+    ".storybook",
     "src",
     "build",
-    "shims"
+    "shims",
+    "types"
   ],
   "exclude": [
     "node_modules",

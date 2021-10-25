@@ -1,3 +1,4 @@
+import '@lumino/default-theme/style/index.css';
 import { themes } from '@storybook/theming';
 import VueCompositionApi from '@vue/composition-api';
 import Vue from 'vue';

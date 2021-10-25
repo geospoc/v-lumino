@@ -45,7 +45,7 @@
     "@commitlint/config-conventional": "^13.2.0",
     "@lumino/datagrid": "^0.32.0",
     "@lumino/default-theme": "^0.19.0",
-    "@lumino/widgets": "^1.28.0",
+    "@lumino/widgets": "^1.29.0",
     "@rollup/plugin-alias": "^3.1.8",
     "@rollup/plugin-babel": "^5.3.0",
     "@rollup/plugin-beep": "^0.2.0",

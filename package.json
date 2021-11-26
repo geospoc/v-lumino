@@ -78,7 +78,7 @@
     "postcss": "^8.4.1",
     "postcss-cli": "^9.0.2",
     "postcss-html": "^1.3.0",
-    "prettier": "^2.4.1",
+    "prettier": "^2.5.0",
     "rollup": "^2.60.1",
     "rollup-plugin-scss": "^3.0.0",
     "rollup-plugin-terser": "^7.0.2",

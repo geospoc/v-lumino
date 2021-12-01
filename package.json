@@ -63,7 +63,7 @@
     "@tailwindcss/line-clamp": "^0.2.2",
     "@tailwindcss/typography": "^0.4.1",
     "@types/node": "^16.11.11",
-    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/eslint-plugin": "^5.5.0",
     "@typescript-eslint/parser": "^5.5.0",
     "@vinayakkulkarni/prettier-config-vue": "^1.0.0",
     "@vue/composition-api": "^1.4.1",

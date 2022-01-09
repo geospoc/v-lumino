@@ -51,7 +51,7 @@
     "@rollup/plugin-beep": "^0.2.0",
     "@rollup/plugin-commonjs": "^21.0.1",
     "@rollup/plugin-node-resolve": "^13.1.3",
-    "@rollup/plugin-sucrase": "^4.0.1",
+    "@rollup/plugin-sucrase": "^4.0.2",
     "@storybook/addon-a11y": "^6.4.9",
     "@storybook/addon-actions": "^6.4.8",
     "@storybook/addon-essentials": "^6.4.9",

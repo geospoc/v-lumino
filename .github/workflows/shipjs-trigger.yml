@@ -16,7 +16,7 @@ jobs:
           ref: main
 
       - name: Setup node env 📦
-        uses: actions/setup-node@v2.5.1
+        uses: actions/setup-node@v3.5.0
 
       - name: Perform a new release 🚨
         run: npx shipjs trigger

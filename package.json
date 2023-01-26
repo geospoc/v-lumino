@@ -58,7 +58,7 @@
     "@storybook/addon-links": "^6.4.17",
     "@storybook/addon-postcss": "^2.0.0",
     "@storybook/addon-storysource": "^6.4.13",
-    "@storybook/vue": "^6.4.13",
+    "@storybook/vue": "^6.5.16",
     "@tailwindcss/aspect-ratio": "^0.4.0",
     "@tailwindcss/line-clamp": "^0.3.1",
     "@tailwindcss/typography": "^0.5.0",
